@@ -103,7 +103,7 @@ results/     # Clustering outputs
 
 ```bash
 git clone https://github.com/BaraaAlsaker/NBA-player-performance-analysis.git
-cd nba-player-performance-analysis
+cd NBA-player-performance-analysis
 ```
 
 ### 2. Install dependencies
