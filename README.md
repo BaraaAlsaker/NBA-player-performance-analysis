@@ -102,7 +102,7 @@ results/     # Clustering outputs
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/BaraaAlsaker/nba-player-performance-analysis.git
+git clone https://github.com/BaraaAlsaker/NBA-player-performance-analysis.git
 cd nba-player-performance-analysis
 ```
 
